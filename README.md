@@ -1,2 +1,4 @@
 # demo
-first repositoy
+first reposit
+hello
+hi
